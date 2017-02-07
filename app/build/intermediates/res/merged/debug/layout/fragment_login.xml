@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loginbackground"
+    tools:context="com.hackathon.csec.foodie.LoginFragment">
+
+    <ImageView
+        android:id="@+id/skipImage"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/cancel" />
+
+    <ProgressBar
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/loginButton"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="50dp"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:textSize="15dp" />
+</RelativeLayout>

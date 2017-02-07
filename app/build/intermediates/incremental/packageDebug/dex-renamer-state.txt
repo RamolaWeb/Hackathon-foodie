@@ -1,0 +1,7 @@
+#Sun Feb 05 14:45:23 IST 2017
+base.0=/home/sahil/Documents/Hackathon-foodie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2313391194004fbb6ffcb054f818c98eaeaea37a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sahil/Documents/Hackathon-foodie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f551ded66144b84568313b13ed59ead5e11d36ba/classes.dex
+base.1=/home/sahil/Documents/Hackathon-foodie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f551ded66144b84568313b13ed59ead5e11d36ba
+file.0=/home/sahil/Documents/Hackathon-foodie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2313391194004fbb6ffcb054f818c98eaeaea37a/classes.dex
